@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo `lsb_release -a` && exit 1",
+    "run": "ps aux"
+  },
+  "author": "",
+  "license": "ISC"
+}
