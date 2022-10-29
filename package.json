@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "echo `pwd && ls -al`",
+    "deploy": "echo `who`",
     "run": "ps aux"
   },
   "author": "",
