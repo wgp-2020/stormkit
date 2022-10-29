@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo `pwd && ls -al",
+    "build": "echo `pwd && ls -al`",
     "run": "ps aux"
   },
   "author": "",
